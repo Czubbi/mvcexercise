@@ -1,2 +1,3 @@
-FckExerciseMVC/obj/Debug/netcoreapp2.1/FckExerciseMVC.csproj.CoreCompileInputs.cache
-FckExerciseMVC/obj/
+./FckExerciseMVC/obj/
+FckExerciseMVC/obj/*
+FckExerciseMVC/obj/FckExerciseMVC.csproj.nuget.g.props
