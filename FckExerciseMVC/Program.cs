@@ -14,6 +14,7 @@ namespace FckExerciseMVC
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
             CreateWebHostBuilder(args).Build().Run();
         }
 
